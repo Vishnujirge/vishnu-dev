@@ -113,7 +113,7 @@ specializing in building **scalable, maintainable, and high-performance web appl
 </table>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,bootstrap,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,bootstrap,firebase,git,github](https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,bootstrap,firebase,git,github,vscode,postman,nodejs" />
 </p>
 
 
