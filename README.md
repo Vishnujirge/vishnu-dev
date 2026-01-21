@@ -146,7 +146,7 @@ Angular (Standalone & Module-based)
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 
-<td width="75%" valign="top">
+<td width="65%" valign="top">
 
 ### 🎬 Movie Management App
 - Angular + Firebase  
