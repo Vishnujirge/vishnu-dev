@@ -44,7 +44,12 @@ specializing in building **scalable, maintainable, and high-performance web appl
 
 ## 🛠️ Tech Stack (Angular-Focused)
 
-### Frontend / Libraries
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+### 🎨 Frontend / Libraries
 - Angular (Standalone & Module-based)
 - TypeScript, RxJS
 - HTML5, CSS3, SCSS
@@ -52,16 +57,31 @@ specializing in building **scalable, maintainable, and high-performance web appl
 - ngx-toastr (Notifications)
 - Bootstrap 4
 
-### Backend & APIs
+</td>
+
+<td width="33%" valign="top">
+
+### 🔗 Backend & APIs
 - REST APIs
 - Firebase (Auth, Realtime DB, Firestore)
-- Node.js & Express (integration & API consumption)
+- Node.js & Express  
+  *(integration & API consumption)*
 
-### Tools
+</td>
+
+<td width="33%" valign="top">
+
+### 🧰 Tools
 - Git & GitHub
 - VS Code
 - Postman
 - Chrome DevTools
+
+</td>
+
+</tr>
+</table>
+
 
 💡 Experience integrating **enterprise UI libraries** and **notification systems** in production Angular applications.
 
