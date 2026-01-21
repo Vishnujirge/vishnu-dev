@@ -141,25 +141,6 @@ Angular (Standalone & Module-based)
 
 ---
 
-## 🚀 Featured Angular Projects
-
-### 🎬 Movie Management App
-- Angular + Firebase
-- Authentication & Route Guards
-- CRUD Operations
-- Realtime Database
-- Modular Architecture
-
-### 📋 Task Manager App
-- Angular Reactive Forms
-- Services & Dependency Injection
-- Local Storage
-- Clean UI with Bootstrap
-
-### 🐍 Snake Game (JavaScript)
-- DOM Manipulation
-- Score Tracking
-- Difficulty Levels
 
 ## 🚀 Featured Angular Projects
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
