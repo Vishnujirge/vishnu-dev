@@ -1,5 +1,5 @@
 <img src="https://private-user-images.githubusercontent.com/97807779/450327712-eb2f9fa4-8230-4a98-8444-f99c5b77456d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkwMDY5MjIsIm5iZiI6MTc2OTAwNjYyMiwicGF0aCI6Ii85NzgwNzc3OS80NTAzMjc3MTItZWIyZjlmYTQtODIzMC00YTk4LTg0NDQtZjk5YzViNzc0NTZkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIxVDE0NDM0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI1YTYzNTBjZWQxMmU2OTZlZWU3YmUxNzk0MDZhY2M3NTU4MzA1Mzc5ZDY5ZThhNmJmYzdhNTQ4NmFmYTY5NzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yEfLcvvdyolYfxIlepePOxPlB7ZjIZfcNC26UgLNCYQ">
-<img src="YOUR_BANNER_IMAGE_OR_GIF_URL" />
+<img src="[YOUR_BANNER_IMAGE_OR_GIF_URL](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg)" />
 
 🚀 **Angular Developer | TypeScript | JavaScript | HTML • CSS • SCSS • UI + Business Logic**
 
