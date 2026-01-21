@@ -25,21 +25,21 @@ high-performance, scalable, and user-centric web applications.
       <h3>📈 GitHub Stats</h3>
 
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api?username=vishnu-dev&show_icons=true&theme=dark&hide_border=false"
         width="100%" 
       />
 
       <br/>
 
       <img 
-        src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false"
+        src="https://nirzak-streak-stats.vercel.app/?user=vishnu-dev&theme=dark&hide_border=false"
         width="100%" 
       />
 
       <br/>
 
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-dev&layout=compact&theme=dark&hide_border=false"
         width="100%" 
       />
     </td>
@@ -53,6 +53,7 @@ high-performance, scalable, and user-centric web applications.
     </td>
   </tr>
 </table>
+
 
 
 
