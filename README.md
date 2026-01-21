@@ -58,7 +58,9 @@ specializing in building **scalable, maintainable, and high-performance web appl
 <td width="33%" valign="top">
 
 ### 🧩 Frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"
+     width="20"
+     style="vertical-align:middle; margin-right:6px;" />
 Angular (Standalone & Module-based)
   
 
