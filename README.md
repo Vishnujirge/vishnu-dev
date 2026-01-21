@@ -1,5 +1,5 @@
 <img src="https://private-user-images.githubusercontent.com/97807779/450327712-eb2f9fa4-8230-4a98-8444-f99c5b77456d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkwMDY5MjIsIm5iZiI6MTc2OTAwNjYyMiwicGF0aCI6Ii85NzgwNzc3OS80NTAzMjc3MTItZWIyZjlmYTQtODIzMC00YTk4LTg0NDQtZjk5YzViNzc0NTZkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIxVDE0NDM0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI1YTYzNTBjZWQxMmU2OTZlZWU3YmUxNzk0MDZhY2M3NTU4MzA1Mzc5ZDY5ZThhNmJmYzdhNTQ4NmFmYTY5NzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yEfLcvvdyolYfxIlepePOxPlB7ZjIZfcNC26UgLNCYQ">
-
+<img src="YOUR_BANNER_GIF_OR_IMAGE_URL" />
 
 🚀 **Angular Developer | TypeScript | JavaScript | HTML • CSS • SCSS • UI + Business Logic**
 
@@ -20,7 +20,7 @@ specializing in building **scalable, maintainable, and high-performance web appl
 
 ### 🧠 Skills & Focus
 
-- 🚀 **Angular Developer** (Production-ready apps)
+- 🚀 **Angular Developer** (Production-ready applications)
 - ⚙️ **TypeScript, JavaScript**
 - 🎨 **HTML5, CSS3, SCSS**
 - 🧩 **Angular Material, PrimeNG**
@@ -40,6 +40,7 @@ specializing in building **scalable, maintainable, and high-performance web appl
 </tr>
 </table>
 
+---
 
 ## 🛠️ Tech Stack (Angular-Focused)
 
@@ -105,7 +106,3 @@ specializing in building **scalable, maintainable, and high-performance web appl
 - 🌍 Portfolio: https://your-portfolio.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/vishnu-j-7338a4258/
 - 📧 Email: vishnusjirge@gmail.com
-
----
-
-⚡ *Always building • Always learning • Angular at heart*
