@@ -166,7 +166,7 @@ Angular (Standalone & Module-based)
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 
-<td width="65%" valign="top">
+<td width="80%" valign="top">
 
 ### 🎬 Movie Management App
 - Angular + Firebase  
@@ -192,7 +192,7 @@ Angular (Standalone & Module-based)
 
 </td>
 
-<td width="35%" align="center">
+<td width="20%" align="center">
 <img src="coding.gif" width="420" />
 
 </td>
