@@ -13,3 +13,10 @@ high-performance, scalable, and user-centric web applications.
 - Git & GitHub
 
 🚀 Passionate about clean architecture, reusable components, and real-world problem solving.
+
+
+## 🛠️ Skills
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,bootstrap,firebase,git,github" />
+</p>
