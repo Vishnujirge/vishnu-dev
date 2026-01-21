@@ -58,9 +58,9 @@ specializing in building **scalable, maintainable, and high-performance web appl
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnujirge)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnujirge&show_icons=true&theme=tokyonight&hide=issues,prs,contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnujirge)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnujirge&layout=compact&theme=tokyonight&hide=html,css)
 
 
 
