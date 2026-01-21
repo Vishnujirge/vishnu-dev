@@ -134,9 +134,25 @@ specializing in building **scalable, maintainable, and high-performance web appl
 
 ## 📊 GitHub Stats
 
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+
+<td width="60%" valign="top">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnujirge&show_icons=true&theme=tokyonight&hide=issues,prs,contribs)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnujirge&layout=compact&theme=tokyonight&langs_count=5)
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="90%" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
